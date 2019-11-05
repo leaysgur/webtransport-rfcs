@@ -15,5 +15,6 @@ Linked means I've already read through.
 - [draft-vvv-webtransport-quic-01](./summary/draft-vvv-webtransport-quic-01.md)
   - WebTransport over QUIC
   - QUICの上で動くWebTransportについて
-- draft-vvv-webtransport-http3-01
+- [draft-vvv-webtransport-http3-01](./summary/draft-vvv-webtransport-http3-01.md)
   - WebTransport over HTTP/3
+  - HTTP/3の上で動くWebTransportについて
