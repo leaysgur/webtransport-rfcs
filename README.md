@@ -18,3 +18,8 @@ Linked means I've already read through.
 - [draft-vvv-webtransport-http3-01](./summary/draft-vvv-webtransport-http3-01.md)
   - WebTransport over HTTP/3
   - HTTP/3の上で動くWebTransportについて
+
+## QUIC
+- [draft-ietf-quic-invariants-07](./summary/draft-ietf-quic-invariants-07.md)
+  - Version-Independent Properties of QUIC
+  - どのQUICのバージョンにも適応される基本について
