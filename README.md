@@ -23,3 +23,12 @@ Linked means I've already read through.
 - [draft-ietf-quic-invariants-07](./summary/draft-ietf-quic-invariants-07.md)
   - Version-Independent Properties of QUIC
   - どのQUICのバージョンにも適応される基本について
+- [draft-ietf-quic-transport-25](./summary/draft-ietf-quic-transport-25.md)
+  - QUIC: A UDP-Based Multiplexed and Secure Transport
+  - UDPベースの新しいプロトコルであるQUICそれ自体について
+- draft-ietf-quic-tls
+  - Using TLS to Secure QUIC
+- draft-ietf-quic-recovery
+  - QUIC Loss Detection and Congestion Control
+- draft-pauly-quic-datagram
+  - An Unreliable Datagram Extension to QUIC
